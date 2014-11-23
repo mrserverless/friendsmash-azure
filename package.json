@@ -1,5 +1,5 @@
 {
-	"name": "Friend Smash",
+	"name": "friend-smash",
 	"version": "1.0.0",
 	"description": "Friend Smash on Azure",
 	"dependencies": {
@@ -7,6 +7,6 @@
 	},
 	"engines": {
 	  "node": "0.10.x",
-	  "npm": "1.2.x"
+	  "npm": "2.1.x"
 	}
 }
